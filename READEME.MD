@@ -1,4 +1,4 @@
-<h1>Gestion des Produits Cassandr</h1>
+<h1>Gestion des Produits stockés avec Cassandra</h1>
 <h2>Description</h2>
 
 Il s'agit d'une application Spring Boot qui réalise des opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) pour gérer des produits stockés dans une base de données Apache Cassandra.
